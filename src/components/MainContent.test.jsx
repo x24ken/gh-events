@@ -13,6 +13,7 @@ describe('MainContent', () => {
 
   // test
   // Add another comment
+  // are?
   it('should show the help area after clicking the button', async () => {
     render(<MainContent />);
 
