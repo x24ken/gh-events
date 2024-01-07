@@ -12,6 +12,7 @@ describe('MainContent', () => {
   });
 
   // test
+  // Add another comment
   it('should show the help area after clicking the button', async () => {
     render(<MainContent />);
 
